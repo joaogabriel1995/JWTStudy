@@ -32,8 +32,8 @@ Este projeto implementa a criação e verificação de JSON Web Tokens (JWT) uti
 
 ### 🔹 1. Clonar o repositório
 ```sh
-git clone https://github.com/seu-usuario/projeto-jwt.git
-cd projeto-jwt
+git clone https://github.com/joaogabriel1995/JWTStudy.git
+cd JWTStudy
 ```
 
 ### 🔹 2. Instalar dependências
